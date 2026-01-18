@@ -4,5 +4,30 @@
   "artist": "Ryo Sumiyoshi",
   "author": "Ryo Sumiyoshi",
   "cover": "https://cdn.kmanga.kodansha.com/static/titles/10652/title_grid_wide_20250819165959f75bf67db7050cfff5d4c058dc8b047e.png",
-  "chapters": {}
+  "chapters": {
+    "5": {
+      "title": "Si Land - FEROCIOUS TIGER ATTACK",
+      "volume": "1",
+      "last_updated": "1765126800",
+      "groups": {
+        "Kodansha": "/proxy/api/imgur/chapter/si-land-chapter-5-ferocious-tiger-attack-anaQIAy"
+      }
+    },
+    "6": {
+      "title": "Si Land - A PLACE OF MAELSTROMS",
+      "volume": "1",
+      "last_updated": "1767546000",
+      "groups": {
+        "Kodansha": "/proxy/api/imgur/chapter/si-land-chapter-6-place-of-maelstroms-zqqAtgv"
+      }
+    },
+    "4.2": {
+      "title": "Si Land - CHAPTER 4(2) ESCAPE, OFFENSE, AND DEFENSE",
+      "volume": "1",
+      "last_updated": "1762102800",
+      "groups": {
+        "Kodansha": "/proxy/api/imgur/chapter/si-land-chapter-4-2-escape-offense-defense-T3idf9h"
+      }
+    }
+  }
 }
